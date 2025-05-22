@@ -1,0 +1,50 @@
+{
+  "title": "Your Summer Vacation Plans 2025",
+  "questions": [
+    {
+      "type": "Short Answer",
+      "question": "Where are you planning to travel this summer?",
+      "required": true
+    },
+    {
+      "type": "Multiple Choice",
+      "question": "How do you prefer to spend your summer vacation?",
+      "answer_options": [
+        "Beach holiday",
+        "City trip",
+        "Active vacation (hiking, cycling, etc.)",
+        "Relaxing at home",
+        "Visiting family",
+        "Something else"
+      ],
+      "required": true
+    },
+    {
+      "type": "Dropdown",
+      "question": "Who are you spending your summer vacation with?",
+      "answer_options": [
+        "Alone",
+        "With partner",
+        "With family",
+        "With friends",
+        "In a group trip",
+        "Undecided"
+      ],
+      "required": true
+    },
+    {
+      "type": "Paragraph",
+      "question": "What does vacation personally mean to you?",
+      "required": true
+    },
+    {
+      "type": "Linear Scale",
+      "question": "How excited are you about this year’s summer vacation?",
+      "scale_min": 1,
+      "scale_max": 5,
+      "label_min": "Not at all",
+      "label_max": "Can’t wait",
+      "required": true
+    }
+  ]
+}
