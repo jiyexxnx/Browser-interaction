@@ -1,19 +1,21 @@
-LLM Agents Project - Browser Interaction
-Project Goal
-Enable an LLM to interact with a web browser to automate tasks.
+# 🤖 LLM Agents Project - Browser Interaction
 
-Primary Use Case
-Automated creation of Google Forms by an agent:
+## 🚀 Project Goal
 
-Filling in questions
+This project aims to enable a Large Language Model (LLM) to interact with a web browser autonomously. The core functionality focuses on browser-based automation powered by LLM agents.
 
-Selecting question types
+## 🎯 Primary Use Case
 
-Adding answer options
+The main objective is to allow the LLM agent to create Google Forms automatically. This includes:
 
-Example Applications
-English assessments
+- Filling in form questions  
+- Selecting appropriate question types  
+- Adding answer options  
 
-Survey creation
+## 💡 Example Applications
 
-Event organization
+This browser interaction capability can be applied to:
+
+- ✍️ English Assessments  
+- 📊 Survey Creation  
+- 📅 Event Organization  
