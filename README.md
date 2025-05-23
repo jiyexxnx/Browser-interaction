@@ -1,4 +1,5 @@
-# 🤖 LLM Agents Project - Browser Interaction
+# 🤖 LLM Agents Project - Browser Interaction (Gourp 7)
+Team member : Giacomo D'Andria, Jiyeon Lee, Victoria Lahr
 
 ## 🚀 Project Goal
 
@@ -12,7 +13,7 @@ Creation of Google Forms by agent :
 - Selecting appropriate question types  
 - Adding answer options  
 
-## 💡 Example Applications
+## 💡 Usecases
 
 - ✍️ English Assessments  
 - 📊 Survey Creation  
